@@ -38,12 +38,14 @@ button{
     height: 60px;
     border: none;
     border-radius: 50px;   
+    font-size:26px;
 }
 .btn .sub{
     width: 60px;
     height: 60px;
     border: none;
     border-radius: 50px;
+    font-size:26px;
 }.btn .reset{
     background:rgb(255, 0, 0);
     width: 60px;
